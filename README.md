@@ -6,4 +6,4 @@ Project #1~#3 is related with implementing SIC/XE machine
 
 Project #4~#5 is related with concurrent programming and shell implmentation
 
-※Project #4 Phase 3 is incomplete
+※Phase 3 of project#4 is incomplete
