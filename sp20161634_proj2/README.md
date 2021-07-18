@@ -3,10 +3,10 @@
 ## Program features
 Extension of project 1
 
-### Additional shell commands
+* Additional shell commands
 
-### assemble
+* assemble
 
-### symbols
+* symbols
 
 _Refer to SP_SIC_assembler_proj2.pdf for more information_
